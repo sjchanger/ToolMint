@@ -1,26 +1,160 @@
-# UltiBox — Every tool. One box.
+# UltiBox
 
-UltiBox is a versatile, all-in-one web application tailored for quick access to everyday utilities. Designed as a single-page application, it runs completely offline, meaning no user data ever leaves the device. 
+A powerful all-in-one toolbox for everyday tasks, developers, creators, and more.
 
-## Core Features
+UltiBox brings a wide collection of useful tools and utilities into one fast, modern, and easy-to-use application.
 
-The application consolidates 23 distinct utilities into a streamlined, responsive interface that feels like a native app.
+## ✨ Features
 
-* **Extensive Toolkit:** Includes a Unit Converter, QR Studio, Contact Maker, JSON Tools, Code Lab, Base64 encoder, and a Hash Generator.
-* **Time & Design Tools:** Features a Timer/Stopwatch, World Clock, Color Studio, and a secure Password Generator.
-* **Personalization:** Users can switch between dark and light themes, select custom accent colors (such as green, blue, violet, orange, or pink), and adjust text sizes.
-* **Device Integration:** Supports hardware-level features like haptic feedback, voice dictation, text-to-speech, and a screen flashlight.
-* **Quick Access:** Features a customizable "Starred" tab for pinning favorite tools and a global search bar to locate specific utilities instantly.
+### 🧮 Calculators
 
-## Deployment Guide for GitHub Pages
+- Calculator
+- Percentage Calculator
+- Age Calculator
+- Health Calculator
 
-Because UltiBox is built entirely within a single HTML document containing all of its required CSS and JavaScript, hosting it is incredibly simple.
+### 📐 Unit Converter
 
-1. **Step 1:** Create a new repository on your GitHub account.
-2. **Step 2:** Save the provided source code as `index.html` and commit it to the root of your new repository.
-3. **Step 3:** Open the repository's **Settings** and navigate to the **Pages** section in the left sidebar.
-4. **Step 4:** Under the "Branch" dropdown, select your main branch, save your changes, and wait a few minutes for your live deployment URL to generate.
+- Length
+- Weight
+- Temperature
+- Area
+- Volume
+- Speed
+- Data
+- Time
 
-## Privacy and Data Storage
+### 🔳 QR Studio
 
-The application is explicitly built for maximum privacy. Any saved settings, favorite tools, or personal notes are stored locally using your browser's local storage. Users maintain full control over their data and can instantly wipe it using the "Clear all" button found in the settings menu.
+- QR Code Generator
+- QR Code Scanner
+- QR Utilities
+
+### 👤 Contact Maker
+
+- Create and manage contact information
+
+### 💻 Developer Tools
+
+- Base64 Encoder & Decoder
+- JSON Tools
+- Code Lab
+- Hash Generator
+- Morse Code
+
+### 🎙️ Voice Studio
+
+- Text to Speech
+- Speech to Text
+
+### 📡 Walkie-Talkie
+
+- Real-time walkie-talkie functionality
+
+### 🔤 Text Tools
+
+- Text manipulation and transformation utilities
+
+### 🎨 Color Studio
+
+- Color-related tools and utilities
+
+### 🔐 Passwords
+
+- Password generation and utilities
+
+### ⏱️ Time Tools
+
+- Timer
+- Stopwatch
+- World Clock
+
+### 📝 Notes
+
+- Create and manage notes
+
+### 🎲 Randomizer
+
+- Random Number
+- Heads or Tails
+- Dice
+
+### 🔦 Utilities
+
+- Flashlight
+- Phone Codes
+
+## 💡 Inspiration
+
+UltiBox was inspired by existing online tool collections and utility platforms.
+
+- [Negareno](https://tools.negareno.com/)
+- [Navidak](https://navidak.ir/)
+
+These projects inspired the idea of bringing many useful tools and services together into one accessible platform.
+
+UltiBox is independently developed with its own implementation, architecture, design, interface, and feature set. UltiBox is not affiliated with, endorsed by, or sponsored by the projects referenced above.
+
+## 🙏 Acknowledgements
+
+Special thanks to the projects and developers whose work helped inspire the concept and direction of UltiBox.
+
+- [Negareno](https://tools.negareno.com/)
+- [Navidak](https://navidak.ir/)
+
+## 🚀 Goals
+
+UltiBox aims to provide a convenient collection of useful tools in one place while maintaining a fast, modern, responsive, and enjoyable experience.
+
+## 🛠️ Technology
+
+UltiBox is built with modern web technologies and focuses on:
+
+- Performance
+- Responsive design
+- Modern UI/UX
+- Privacy
+- Accessibility
+- Cross-platform compatibility
+
+## 🗺️ Roadmap
+
+UltiBox is continuously evolving.
+
+Future improvements may include:
+
+- More tools
+- Improved existing tools
+- Performance improvements
+- New productivity features
+- More developer utilities
+- Enhanced offline capabilities
+- New customization options
+
+## 💬 Community
+
+Have a question, found a problem, or have an idea for a new tool?
+
+Open a Discussion or Issue in this repository.
+
+Ideas, feedback, bug reports, and feature requests are welcome.
+
+## 🤝 Contributing
+
+Contributions, suggestions, bug reports, and feature requests are welcome.
+
+1. Fork the repository.
+2. Create a new branch.
+3. Make your changes.
+4. Test your changes.
+5. Open a Pull Request.
+
+## ⭐ Support
+
+If you find UltiBox useful, consider giving the repository a ⭐ star on GitHub.
+
+It helps the project gain visibility and allows more people to discover it.
+
+---
+
+**UltiBox — Every tool. One box.**
