@@ -1,8 +1,8 @@
-# UltiBox
+# ToolMint
 
-A powerful all-in-one toolbox for everyday tasks, developers, creators, and more.
+An all-in-one toolbox for everyday tasks, developers, creators, and more.
 
-UltiBox brings a wide collection of useful tools and utilities into one fast, modern, and easy-to-use application.
+ToolMint brings a wide collection of useful tools and utilities into one fast, modern, and easy-to-use application.
 
 ## ✨ Features
 
@@ -151,10 +151,10 @@ Contributions, suggestions, bug reports, and feature requests are welcome.
 
 ## ⭐ Support
 
-If you find UltiBox useful, consider giving the repository a ⭐ star on GitHub.
+If you find ToolMint useful, consider giving the repository a ⭐ star on GitHub.
 
 It helps the project gain visibility and allows more people to discover it.
 
 ---
 
-**UltiBox — Every tool. One box.**
+**ToolMint — Every tool. One box.**
